@@ -16,6 +16,7 @@ namespace PracticeGit
     {
         public Startup(IConfiguration configuration)
         {
+            //I added comment 
             Configuration = configuration;
         }
 
