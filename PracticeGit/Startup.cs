@@ -16,7 +16,6 @@ namespace PracticeGit
     {
         public Startup(IConfiguration configuration)
         {
-            //Test comment added when I am in NewTestBranch
             Configuration = configuration;
         }
 
